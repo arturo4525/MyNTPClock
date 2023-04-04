@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My NTP Clock</string>
+    <string name="start_ntp_time">Start Ntp Time</string>
+</resources>
